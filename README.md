@@ -1,6 +1,6 @@
 # Microsoft365.com/setup 
 
-[![Microsoft365.com/setup](gett-starteed.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com/)
+[![Microsoft365.com/setup](gett-starteed.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com/)
 
 One of the renowned tech-giant in today’s time is Microsoft. Microsoft Office is available in different versions such as Office 2019, Office 365, Office 2016, Office 2013, Office 2010, and Office 2007. It is one of the best software suite for any PC. You might have used already one or all of these tools offered by Microsoft at your home or office. These tools can help you complete various smallest and significant tasks and projects on your computer. If you don’t have MS Office in your PC, get the Office setup from [Microsoft365.com/setup](https://ab-microsoft365comsetup.github.io/).
 
